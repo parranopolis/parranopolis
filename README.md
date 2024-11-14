@@ -33,8 +33,8 @@ I am passionate about **developing software** that combines **clean code practic
 
 ## 🌐 Recent Projects
 
-- **Budget Buddy**: A personal finance app with user-specific data storage and custom savings goals. [GitHub Repo](#)
-- **PDF Generator for Legal Documents**: Securely manage and generate legal document PDFs, with deadline notifications. [GitHub Repo](#)
-- **Fuel Finder**: A real-time fuel price locator with filtered search options for better savings. [GitHub Repo](#)
+- **Budget Buddy**: A personal finance app with user-specific data storage and custom savings goals. [GitHub Repo](https://github.com/parranopolis/Budget-Buddy)
+- **PDF Generator for Legal Documents**: Securely manage and generate legal document PDFs, with deadline notifications. [GitHub Repo](https://github.com/parranopolis/VenezuelanLegalServices)
+- **Fuel Finder**: A real-time fuel price locator with filtered search options for better savings. [GitHub Repo](https://github.com/parranopolis/Fuel-Finder)
 
 ---
