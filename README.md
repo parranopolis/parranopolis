@@ -6,7 +6,7 @@ With a solid foundation in software engineering and hands-on experience in web d
 
 ## 🌍 Connect with Me
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sergioparral)
+- **LinkedIn**: [in/sergioparra](https://www.linkedin.com/in/sergioparral)
 - **Email**: [parranopolis00@gmail.com](mailto:parranopolis00@gmail.com)
 
 ---
