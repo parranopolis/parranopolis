@@ -18,7 +18,7 @@ With a solid foundation in software engineering and hands-on experience in web d
 - **💼 Work Experience**: I have developed several applications that streamline processes, improve data management, and facilitate user interactions.
 
 I am passionate about **developing software** that combines **clean code practices** with effective, minimalistic, and responsive user interfaces.
-**Portfolio**:[Portfolio](parranopolis.github.io/PortFolio/)
+**Portfolio**:[portfolio](https://parranopolis.github.io/PortFolio/)
 ---
 
 ## 🌟 Skills and Tools
