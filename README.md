@@ -8,7 +8,7 @@ With a solid foundation in software engineering and hands-on experience in web d
 
 - **LinkedIn**: [in/sergioparra](https://www.linkedin.com/in/sergioparral)
 - **Email**: [parranopolis00@gmail.com](mailto:parranopolis00@gmail.com)
-
+- Portfolio: [parranopolis](https://parranopolis.github.io/PortFolio/)
 ---
 
 ## 🧑‍💻 About Me
@@ -18,7 +18,7 @@ With a solid foundation in software engineering and hands-on experience in web d
 - **💼 Work Experience**: I have developed several applications that streamline processes, improve data management, and facilitate user interactions.
 
 I am passionate about **developing software** that combines **clean code practices** with effective, minimalistic, and responsive user interfaces.
-[**Portfolio:**](https://parranopolis.github.io/PortFolio/)
+
 ---
 
 ## 🌟 Skills and Tools
