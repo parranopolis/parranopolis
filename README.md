@@ -12,7 +12,7 @@
 
 I'm a **Full-Stack Developer** with a Systems Engineering background, passionate about turning real-world operational problems into clean, scalable web applications. I ship MVPs and full products end-to-end — from identifying the gap to deploying the solution.
 
-Currently based in the US, I bring a unique blend of **technical depth** and **customer-facing experience** (retail sales, airport operations, device repair) that helps me build software people actually want to use.
+Currently based in the US, I bring a unique blend of **technical depth** that helps me build software people actually want to use.
 
 > *"I don't just write code — I solve problems that I lived first-hand."*
 
@@ -69,7 +69,7 @@ Agile / Scrum · Requirements Gathering · MVP Design · Technical Documentation
 
 ---
 
-### [Venezuelan Legal Services](https://github.com/parranopolis/venezuelan-legal-services) — Legal Document Platform
+### [Venezuelan Legal Services](https://venezuelan-legal-services-landing-p.vercel.app) — Legal Document Platform
 
 *Complete platform digitizing legal form workflows for an LLC serving Venezuelan immigrants.*
 
@@ -89,7 +89,7 @@ Agile / Scrum · Requirements Gathering · MVP Design · Technical Documentation
 
 ---
 
-### [Budget Buddy](https://github.com/parranopolis/budget-buddy) — Personal Finance App
+### [Budget Buddy](https://budget-buddy-landing-page.vercel.app) — Personal Finance App
 
 *Multi-user finance tracker with custom savings goals and organized income/expense logging.*
 
@@ -97,15 +97,6 @@ Agile / Scrum · Requirements Gathering · MVP Design · Technical Documentation
 
 - User-specific data storage with real-time sync
 - Custom savings goals and spending insights
-
----
-
-### [Fuel Finder](https://github.com/parranopolis/fuel-finder) — Real-Time Fuel Price Locator
-
-*Filtered search for fuel prices to help users find the best savings nearby.*
-
-- Real-time data with location-based filtering
-- Optimized for mobile use
 
 ---
 
